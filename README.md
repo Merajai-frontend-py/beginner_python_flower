@@ -1,5 +1,5 @@
 # beginner_python_flower
-# Rainbow Flower Pattern with Python Turtle
+# Rainbow Flower 
 
 This project generates a beautiful rainbow flower pattern using Python's Turtle graphics and the HSV color model.
 The design is created by drawing multiple circular arcs while gradually changing colors to produce a smooth rainbow gradient.
@@ -33,7 +33,7 @@ Built-in libraries:
      1. turtle
      2. colorsys
 
-   #  Radial Sunburst Pattern – Python Turtle
+   #  Radial Sunburst 
 
 A generative art project created with Python's Turtle graphics that draws a mesmerizing radial sunburst pattern
 Project Goal
